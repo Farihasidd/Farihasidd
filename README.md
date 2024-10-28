@@ -47,6 +47,7 @@ I’m a Flutter developer with experience in building responsive, high-performan
     - **Appointment Dashboard**: Access upcoming appointments.
     - **In-App Audio/Video Consultations**: Conduct live consultations via audio or video.
 - **Technologies**: Flutter, Firebase (real-time data and authentication),Agora for audio/video calling, GetX for state management, Stripe API for payment processing.
+- **Screenshots** https://github.com/Farihasidd/Farihasidd/tree/main/screenshots/AskaDoc
 
 ### AAM Express
 - **Description**: A food ordering app that connects customers with local restaurants, offering a convenient way to browse menus, and place orders. Built for both Android and iOS.
