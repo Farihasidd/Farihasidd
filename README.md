@@ -20,6 +20,7 @@ I’m a Flutter developer with experience in building responsive, high-performan
   - In-app chat and comments for collaboration
   - Analytics dashboard with project insights and progress tracking
 - **Technologies**: Flutter, Firebase (for authentication, real-time database, and cloud storage), Bloc (for state management)
+- **Screenshots** https://github.com/Farihasidd/Farihasidd/tree/main/screenshots/Task%20management
 
 ### Quran App - Muslimeen
 - **Description**: A comprehensive Quran app designed to help users read, listen, and study the Quran with ease. It includes features like verse translation, audio recitation, and bookmarking to enhance the user’s spiritual experience.
@@ -30,6 +31,7 @@ I’m a Flutter developer with experience in building responsive, high-performan
   - **Daily Verse and Reminders**: Daily verse notifications and custom reminders for spiritual goals.
   - **Search Functionality**: Search by keywords, surah or verse numbers for easy navigation.
 - **Technologies**: Flutter, Firebase for user authentication and real-time data, GetX for state management.
+- **Screenshots** https://github.com/Farihasidd/Farihasidd/tree/main/screenshots/Muslimeen
 
 ### AskaDoc
 - **Description**: A comprehensive doctor appointment app connecting patients and doctors, allowing for convenient scheduling, in-app audio/video and message consultations.
@@ -58,6 +60,8 @@ I’m a Flutter developer with experience in building responsive, high-performan
     - **Order Management Dashboard**: View and manage incoming orders.
     - **Menu and Pricing Control**: Update menu items, prices, and availability.
 - **Technologies**: Flutter, APIs for backend, Google Maps API for location tracking and Provider for state management.
+- **App Link** https://play.google.com/store/apps/details?id=com.aamexpress.fooddelivery&hl=en&pli=1
+
 
 
 
